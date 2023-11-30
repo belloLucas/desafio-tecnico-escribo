@@ -20,4 +20,6 @@ Para rodar o projeto localmente, siga o passo a passo:
      live-server
     ```
 - Após isso, o projeto deverá ser aberto automaticamente no navegador, onde poderá ser testado.
+
+- Para testar, basta digitar um número no input e clicar no botão calcular, ao fim do cálculo o somatório será apresentado visualmente, através de um parágrafo.
   
