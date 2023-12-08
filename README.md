@@ -1,6 +1,6 @@
 # Desafio Técnico - Escribo
 
-O desafio pode ser acessado e testado através do seguinte link: https://bellolucas.github.io/desafio-tecnico-escribo/
+O desafio pode ser acessado e testado através do seguinte link: https://bellolucas.github.io/somatorio/
 
 Para rodar o projeto localmente, siga o passo a passo:
 
