@@ -6,7 +6,7 @@ Para rodar o projeto localmente, siga o passo a passo:
 
 - Clone este repositório na sua máquina:
   - ```bash
-    git clone https://github.com/belloLucas/desafio-tecnico-escribo.git
+    git clone https://github.com/belloLucas/somatorio.git
     ```
     
 - Certifique-se de ter o Node.js instalado: https://nodejs.org/en/download/
